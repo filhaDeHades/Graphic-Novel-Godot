@@ -1,1 +1,28 @@
-{"color":"#ffce209f","default_speaker":false,"description":"","display_name":"","display_name_bool":false,"id":"character-1622847261.json","mirror_portraits":false,"name":"Personagem 2","offset_x":75,"offset_y":-200,"portraits":[{"name":"Default","path":"res://Assets/pessoa2-normal.png"},{"name":"Angry","path":"res://Assets/pessoa2-angry.png"},{"name":"Sad","path":"res://Assets/pessoa2-sad.png"}],"scale":30}
+{
+	"color": "#ffce209f",
+	"description": "hi hi hi",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1622847261.json",
+	"mirror_portraits": false,
+	"name": "Personagem 2",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 75,
+	"offset_y": -200,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Assets/Characters/pessoa2-normal.png"
+		},
+		{
+			"name": "Angry",
+			"path": "res://Assets/Characters/pessoa2-angry.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://Assets/Characters/pessoa2-sad.png"
+		}
+	],
+	"scale": 30
+}
